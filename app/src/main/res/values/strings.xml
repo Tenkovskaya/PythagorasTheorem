@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">PaffagorApp</string>
+    <string name="title" translatable="false">Вычислить `С`</string>
+    <string name="result_info" translatable="false">Результат:&#160;</string>
+    <string name="result" translatable="false">Результат</string>
+    <string name="input_a" translatable="false">Введите значение \"А\"</string>
+    <string name="input_b" translatable="false">Введите значение \"B\"</string>
+</resources>
